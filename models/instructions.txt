@@ -1,0 +1,3 @@
+just downlaod and put the models in this folder
+https://huggingface.co/Mumzkid04/GFPGANv1.4/blob/main/GFPGANv1.4.pth
+https://huggingface.co/Mumzkid04/GFPGANv1.4/blob/main/inswapper_128_fp16.onnx
